@@ -34,8 +34,8 @@ const Hero = () => {
           Payment Method
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          From its medieval origins to the digital era, learn everything there
-          is to know about the ubiquitous lorem ipsum passage.
+          A high-tech financial ecosystem that provides convenient and secure financial transactions.
+          We strive to become your trusted partner, offering a personalized approach and support in achieving your financial goals
         </p>
       </div>
 
